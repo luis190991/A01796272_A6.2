@@ -151,6 +151,9 @@ python -m coverage report --include="hotel_system/*"
 
 Total de pruebas: **73 casos** — todos pasan.
 
+# Resultado final
+![Resultado final de las pruebas](static/img/unit_test.png)
+
 ---
 
 ## Análisis estático
