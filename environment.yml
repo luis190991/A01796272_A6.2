@@ -1,0 +1,11 @@
+name: hotel-reservation
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - flake8==7.1.1
+      - pylint==3.3.3
+      - coverage==7.6.10
