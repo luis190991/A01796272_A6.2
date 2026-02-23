@@ -1,0 +1,24 @@
+[MASTER]
+jobs=1
+
+[MESSAGES CONTROL]
+disable=duplicate-code
+
+[FORMAT]
+max-line-length=79
+
+[DESIGN]
+max-args=7
+max-attributes=10
+max-bool-expr=5
+max-branches=12
+max-locals=15
+max-public-methods=35
+max-returns=6
+max-statements=50
+
+[SIMILARITIES]
+min-similarity-lines=6
+
+[BASIC]
+good-names=fh,k,v,i,j
