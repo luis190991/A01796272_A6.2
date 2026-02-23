@@ -9,6 +9,7 @@ max-line-length=79
 
 [DESIGN]
 max-args=7
+max-positional-arguments=7
 max-attributes=10
 max-bool-expr=5
 max-branches=12
