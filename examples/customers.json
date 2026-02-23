@@ -1,0 +1,20 @@
+{
+  "C001": {
+    "customer_id": "C001",
+    "name": "Luis Antonio Ramírez Martínez",
+    "email": "luis.ramirez@example.com",
+    "phone": "81-1234-5678"
+  },
+  "C002": {
+    "customer_id": "C002",
+    "name": "María García López",
+    "email": "maria.garcia@example.com",
+    "phone": "55-9876-5432"
+  },
+  "C003": {
+    "customer_id": "C003",
+    "name": "Carlos Hernández Ruiz",
+    "email": "carlos.hernandez@example.com",
+    "phone": "33-4567-8901"
+  }
+}

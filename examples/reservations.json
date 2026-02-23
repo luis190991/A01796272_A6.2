@@ -1,0 +1,26 @@
+{
+  "R001": {
+    "reservation_id": "R001",
+    "customer_id": "C001",
+    "hotel_id": "H001",
+    "check_in": "2025-03-10",
+    "check_out": "2025-03-15",
+    "status": "active"
+  },
+  "R002": {
+    "reservation_id": "R002",
+    "customer_id": "C002",
+    "hotel_id": "H001",
+    "check_in": "2025-04-01",
+    "check_out": "2025-04-03",
+    "status": "cancelled"
+  },
+  "R003": {
+    "reservation_id": "R003",
+    "customer_id": "C003",
+    "hotel_id": "H003",
+    "check_in": "2025-05-20",
+    "check_out": "2025-05-25",
+    "status": "active"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "H001": {
+    "hotel_id": "H001",
+    "name": "Grand Palace Hotel",
+    "location": "Ciudad de México, CDMX",
+    "rating": 4.8,
+    "total_rooms": 120,
+    "available_rooms": 118,
+    "reservations": [
+      "R001",
+      "R002"
+    ]
+  },
+  "H002": {
+    "hotel_id": "H002",
+    "name": "Hotel Camino Real",
+    "location": "Guadalajara, Jalisco",
+    "rating": 4.2,
+    "total_rooms": 80,
+    "available_rooms": 80,
+    "reservations": []
+  },
+  "H003": {
+    "hotel_id": "H003",
+    "name": "Fiesta Inn Monterrey",
+    "location": "Monterrey, Nuevo León",
+    "rating": 3.9,
+    "total_rooms": 60,
+    "available_rooms": 59,
+    "reservations": [
+      "R003"
+    ]
+  }
+}
