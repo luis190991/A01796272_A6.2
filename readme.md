@@ -168,6 +168,10 @@ pylint hotel_system/ tests/ main.py --rcfile=.pylintrc
 | Flake8 | 0 advertencias |
 | Pylint | 10.00 / 10 |
 
+
+# Resultado final
+![Resultado final](static/img/qa.png)
+
 ---
 
 ## Manejo de errores
